@@ -20,8 +20,12 @@ public class Methods {
 		 map.put("4","32");
 		 map.put("5","31");
 		
-       
-		  
+		 map.put("1","35");
+		 map.put("2","34");
+		 map.put("1=3","33");
+		 map.put("4","32");
+		 map.put("5","31");
+		 
 		
 		
 		 for (Map.Entry<String, String> e : map.entrySet())
